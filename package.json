@@ -1,0 +1,16 @@
+{
+  "name": "nodecache",
+  "version": "1.0.0",
+  "description": "NodeCache will listen for HTTP GETs",
+  "main": "cache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "^2.63.0"
+  },
+  "devDependencies": {}
+}
